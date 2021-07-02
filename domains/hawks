@@ -1,0 +1,10 @@
+{
+  "description": "An alternative domain for my website",
+  "repo": "https://github.com/tiny-birf/tiny-birf.github.io",
+  "owner": {
+    "username": "tiny-birf"
+  },
+  "record": {
+    "CNAME": "tiny-birf.github.io"
+  }
+}
